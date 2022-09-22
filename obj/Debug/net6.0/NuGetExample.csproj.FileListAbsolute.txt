@@ -1,0 +1,17 @@
+C:\Maldo\Pranali\Nuget\NuGetExample\bin\Debug\net6.0\NuGetExample.exe
+C:\Maldo\Pranali\Nuget\NuGetExample\bin\Debug\net6.0\NuGetExample.deps.json
+C:\Maldo\Pranali\Nuget\NuGetExample\bin\Debug\net6.0\NuGetExample.runtimeconfig.json
+C:\Maldo\Pranali\Nuget\NuGetExample\bin\Debug\net6.0\NuGetExample.dll
+C:\Maldo\Pranali\Nuget\NuGetExample\bin\Debug\net6.0\NuGetExample.pdb
+C:\Maldo\Pranali\Nuget\NuGetExample\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Maldo\Pranali\Nuget\NuGetExample\obj\Debug\net6.0\NuGetExample.csproj.AssemblyReference.cache
+C:\Maldo\Pranali\Nuget\NuGetExample\obj\Debug\net6.0\NuGetExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Maldo\Pranali\Nuget\NuGetExample\obj\Debug\net6.0\NuGetExample.AssemblyInfoInputs.cache
+C:\Maldo\Pranali\Nuget\NuGetExample\obj\Debug\net6.0\NuGetExample.AssemblyInfo.cs
+C:\Maldo\Pranali\Nuget\NuGetExample\obj\Debug\net6.0\NuGetExample.csproj.CoreCompileInputs.cache
+C:\Maldo\Pranali\Nuget\NuGetExample\obj\Debug\net6.0\NuGetExample.csproj.CopyComplete
+C:\Maldo\Pranali\Nuget\NuGetExample\obj\Debug\net6.0\NuGetExample.dll
+C:\Maldo\Pranali\Nuget\NuGetExample\obj\Debug\net6.0\refint\NuGetExample.dll
+C:\Maldo\Pranali\Nuget\NuGetExample\obj\Debug\net6.0\NuGetExample.pdb
+C:\Maldo\Pranali\Nuget\NuGetExample\obj\Debug\net6.0\NuGetExample.genruntimeconfig.cache
+C:\Maldo\Pranali\Nuget\NuGetExample\obj\Debug\net6.0\ref\NuGetExample.dll
